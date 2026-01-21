@@ -1,2 +1,4 @@
 # Documentation
 Dokumentation unseres Projekts: https://tex.fachschaften.org/read/wrnsgykjchhy#e86573
+
+Zusätzlich sind hier die Clockify Time-Tracking Reports zu finden. Diese umfassen die Aufgaben aller Projektmitglieder
